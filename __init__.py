@@ -2,7 +2,6 @@ from anki.hooks import wrap
 from anki.notes import Note
 from aqt.browser.browser import Browser
 from aqt.qt import *
-from aqt.utils import showInfo
 from aqt import mw
 import html
 import re
