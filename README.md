@@ -3,6 +3,10 @@
 An Anki add-on for copying all the fields of a selection in the browse
 window.
 
+**Addon URL**: <https://ankiweb.net/shared/info/1726946295>
+
+**Addon Code**: `1726946295`
+
 ### Example
 
 ![image](https://user-images.githubusercontent.com/3298461/149669228-50015b6d-9aff-447f-8fcf-afcf5e2e8ab1.png)
